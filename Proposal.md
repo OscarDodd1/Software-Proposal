@@ -19,3 +19,6 @@
 #### -Storage: The game will store the players fastest time locally.
 
 ## **Functional Requirements**
+#### -User Interation: The player will use WASD to control the movement of the character relative to the cameras position, the camera will be controlled by the players mouse, moving it left and right will move the camera acordingly. The escape key will pause the game and put a ui on the screen with multiple buttons that are clicked with the mouse.
+-![Alt text](Images/UserInteraction.png "User Interaction Image")
+#### -Core Gameplay: The game will consist of moving a player around to solve puzzles and platform around a map to collect orbs that will increase the players score.
